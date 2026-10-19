@@ -1,3 +1,4 @@
 prva linija dodata!!!
 dodata konfiguracija za login testove
+Ispravka
 priprema 123
