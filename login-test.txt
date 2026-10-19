@@ -1,0 +1,11 @@
+Test slucaj 1 - test je prosao
+Dolazim na stranu https://practicetestautomation.com/practice-test-login/
+Unosim korisnicko ime: student
+Unosim sifru: Password123
+Klik na Submit taster
+
+Ocekivano:
+Uspesan login
+
+Dobijeno:
+Login stranica
